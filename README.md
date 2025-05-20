@@ -4,3 +4,4 @@
 
 
 Contains real time feedback for the training and statistical overview over all trainings. 
+Includes two model to calculate power from cadence and speed from power. 
